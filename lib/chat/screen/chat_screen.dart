@@ -1,7 +1,7 @@
-import 'package:basics/chat_app_bar.dart';
-import 'package:basics/chat_nav_bar.dart';
-import 'package:basics/my_message.dart';
-import 'package:basics/other_message.dart';
+import 'package:basics/chat/widgets/chat_app_bar.dart';
+import 'package:basics/chat/widgets/input_bar.dart';
+import 'package:basics/chat/widgets/my_message.dart';
+import 'package:basics/chat/widgets/other_message.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 
